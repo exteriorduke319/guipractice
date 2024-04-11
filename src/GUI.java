@@ -66,11 +66,11 @@ public class GUI {
     }
 
     public void b2Press() {
-        label.setText("You clicked shaq readinbook");
+        label.setText("You clicked rick ross strechmark");
     }
 
     public void b3Press() {
-        label.setText("You clicked rick ross strechmark");
+        label.setText("You clicked shaq readinbook");
     }
 
     public void b4Press() {
